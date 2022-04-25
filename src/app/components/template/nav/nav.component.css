@@ -1,0 +1,10 @@
+    .sidenav {
+        background-color: #3f51b5;
+        width: 200px;
+        color: azure;
+    }
+    
+    .content {
+        padding: 16px;
+        background: #fff;
+    }
